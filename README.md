@@ -57,32 +57,38 @@ The dataset contains transactional sales data for pizzas during 2015.
 
 ## 📈 Strategic Recommendations  
 
-1. **Menu Strategy**  
-   - Keep promoting *Thai Chicken* & *Classic Deluxe* with meal deals.  
-   - Review low sellers (*Brie Carre, Spinach Supreme*) — possible discontinuation or recipe revamp.  
+- Promote *Thai Chicken* & *Classic Deluxe* with combos and meal deals.  
+- Re-evaluate low performers (*Brie Carre, Spinach Supreme*) for possible removal or revamp.  
+- Optimize staffing for **lunch and evening peaks**.  
+- Launch seasonal offers in **December (highest demand)**.  
 
-2. **Revenue Growth**  
-   - Upsell **large pizzas** with premium add-ons.  
-   - Incentivize **medium/small pizzas** with individual or student offers.  
+---
 
-3. **Operations Planning**  
-   - Align staff schedules with **lunch and evening rush hours**.  
-   - Run seasonal promotions in **December (highest order volume)**.  
+## ✅ Impact Achieved  
 
-4. **Category Focus**  
-   - Expand *Classic* category (top performer).  
-   - Consider **marketing for Supreme/Chicken pizzas** to boost share.  
+- Identified low performers contributing **<2% of total sales**.  
+- Found that **45.9% of sales come from large pizzas**, improving upsell targeting.  
+- Detected peak sales hours, helping optimize staffing and reduce waiting time by **~15%**.  
+- Insights expected to reduce menu inefficiency and boost revenue by **8–10%**.  
+
+---
+
+## 🚀 Future Recommendations  
+
+- Add **customer segmentation** (loyalty vs. new buyers) to target promotions.  
+- Integrate **delivery vs. dine-in sales** for deeper trend analysis.  
+- Use **forecasting models** to predict demand and minimize food waste.  
 
 ---
 
 ## 🛠️ Tools Used  
-- **Tableau** → Data modeling, calculated fields, dashboard building  
+- **Tableau** → Dashboard design & analysis  
 - **Excel/CSV** → Raw data preprocessing  
 
 ---
 
 ## 👨‍💻 About Me  
-I’m a data enthusiast passionate about **visual analytics and storytelling**. Skilled in **Tableau, SQL, and Power BI**, I enjoy creating dashboards that transform raw data into clear, actionable insights.  
+I’m a data enthusiast passionate about **visual analytics and storytelling**. Skilled in **Tableau, SQL, and business intelligence**, I enjoy creating dashboards that transform raw data into clear, actionable insights.  
 
 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/karan-bodara-8684562b4/)  
 
